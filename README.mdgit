@@ -1,0 +1,2 @@
+"# machineLearningProject"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Vivi-Hoyos2710/machineLearningProject.gitgit push -u origin main
+"# machineLearningProject"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/Vivi-Hoyos2710/machineLearningProject.gitgit push -u origin main
